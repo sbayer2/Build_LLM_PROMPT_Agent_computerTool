@@ -15,7 +15,7 @@ Extract relevant data VISUALLY ->
 Handle different data types ->
 Save structured results ->
 
-Result:  successfully navigated Newegg (with all its anti-bot measures) using computer-use-preview and playeright and extracted real product data without websearch
+Result:  successfully navigated Newegg (with all its anti-bot measures) using computer-use-preview openai api model and playwright and extracted real product data without websearch
 
 User query :  on Newegg find the price of acer laptop under 1000 dollars, list the price and website link for the specific laptop
 
@@ -31,7 +31,7 @@ First 300 chars: {
 ...
 
 
-===========================================================================
+====================================================================================================
 Generated task configuration: Find Acer Laptops under $1000 on Newegg
 ✅ Research agent configured!
 📋 Task: Find Acer Laptops under $1000 on Newegg
