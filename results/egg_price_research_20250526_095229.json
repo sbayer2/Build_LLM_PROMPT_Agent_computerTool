@@ -1,0 +1,37 @@
+{
+  "found_items": [
+    {
+      "title": "Happy Hens Truly Outdoors Eggs \u2013 1 Dozen Organic Large Eggs",
+      "position": "1st from top",
+      "timestamp": "Not visible",
+      "snippet": "Organic, large-sized eggs from Happy Hens Truly Outdoors",
+      "egg_prices": [
+        "$10.35 for 1 dozen"
+      ],
+      "url": "https://happyhensfarm.com/"
+    },
+    {
+      "title": "Happy Hens Truly Outdoors Eggs \u2013 1 Dozen Organic Extra Large Eggs",
+      "position": "2nd from top",
+      "timestamp": "Not visible",
+      "snippet": "Organic, extra large-sized eggs from Happy Hens Truly Outdoors",
+      "egg_prices": [
+        "$10.87 for 1 dozen"
+      ],
+      "url": "https://happyhensfarm.com/"
+    },
+    {
+      "title": "Happy Hens Truly Outdoors Eggs \u2013 1 Dozen Organic Medium Eggs",
+      "position": "3rd from top",
+      "timestamp": "Not visible",
+      "snippet": "Organic, medium-sized eggs from Happy Hens Truly Outdoors",
+      "egg_prices": [
+        "$9.83 for 1 dozen"
+      ],
+      "url": "https://happyhensfarm.com/"
+    }
+  ],
+  "search_summary": "Found 3 egg products on Happy Hens Farm website",
+  "search_complete": true,
+  "timestamp": "2025-05-26T09:52:29.115905"
+}
