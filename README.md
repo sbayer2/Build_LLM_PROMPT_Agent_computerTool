@@ -30,48 +30,7 @@ First 300 chars: {
       "snippet": "Lowest Price in 30 days",
 ...
 
-Testing connection to the page...
-Page title: DuckDuckGo - Protection. Privacy. Peace of mind.
-Current URL: https://duckduckgo.com/
-Playwright initialization complete
-🔍 Analyzing request: 'on Newegg find the price of acer laptop under 1000 dollars, list the price and website link for the specific laptop'
-Generating research plan...
-📋 Generated Task Configuration (JSON):
-============================================================
-{
-  "task_name": "Find Acer Laptops under $1000 on Newegg",
-  "search_terms": [
-    "Acer laptop under 1000",
-    "Acer laptop price",
-    "buy Acer laptop"
-  ],
-  "target_websites": [
-    "newegg.com"
-  ],
-  "data_to_extract": [
-    {
-      "field_name": "laptop_name",
-      "field_type": "string",
-      "description": "The name or model of the Acer laptop"
-    },
-    {
-      "field_name": "price",
-      "field_type": "string",
-      "description": "The price of the Acer laptop"
-    },
-    {
-      "field_name": "link",
-      "field_type": "string",
-      "description": "The URL link to the specific laptop on Newegg"
-    }
-  ],
-  "success_criteria": "Found at least 1 item with partial data",
-  "example_output": {
-    "laptop_name": "Acer Aspire 5 A515-45-R14K",
-    "price": "$699.99",
-    "link": "https://www.newegg.com/acer-aspire-5-a515-45-r14k/p/N82E16834315402"
-  }
-}
+
 ============================================================
 Generated task configuration: Find Acer Laptops under $1000 on Newegg
 ✅ Research agent configured!
