@@ -220,7 +220,7 @@ class PromptGenerator:
         for field in task_config['data_to_extract']:
             fields_to_extract.append(f"- {field['field_name']}: {field['description']}")
 
-        # Enhanced instructions with Google search navigation
+        # Enhanced instructions with search navigation
         instructions = f"""
         You are a specialized research agent performing: {task_config['task_name']}
 
